@@ -1,4 +1,4 @@
-# Unity Pathway Junior Programmer Checkpoint - Cube
+# Unity Pathway Junior Programmer Checkpoint - Counter
 
 This repository contains the second checkpoint from the Unity Pathway "Junior Programmer". After passing the initial quiz the instructions were as follows.
 
