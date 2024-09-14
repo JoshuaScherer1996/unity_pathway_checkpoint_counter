@@ -1,7 +1,8 @@
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
-{
+{ 
+    // Declaring and initializing the variables.
     [SerializeField] private float speed = 20f;
     private float _horizontalInput;
     private Rigidbody _rb;
